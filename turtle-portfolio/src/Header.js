@@ -7,6 +7,7 @@ function Header() {
             <nav>
                 <ul>
                     <li> <a href="#about" >About</a></li>
+                    <li> <a href="#projects">Projects</a></li>
                     <li> <a href="#dataScience">Data Science</a></li>
                     <li> <a href="#mlEngineering">ML Engineering</a></li>
                     <li> <a href="#dataEngineering"> Data Engineering</a></li>
